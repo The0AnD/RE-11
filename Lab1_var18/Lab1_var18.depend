@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635778620 source:c:\codeblocks c\lab1_var18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1634905648 source:c:\codeblocks c\lab1_var18\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
